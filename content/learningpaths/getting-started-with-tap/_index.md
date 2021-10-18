@@ -7,8 +7,9 @@ description: |
     Get started with *Tanzu Application Platform*.
     - Bootstrap an application with *Accelerator*.
     - Build an application with *Tanzu Build Service*.
+    - Observe the *Supply Chain Choreography*.
     - Deploy an application with *Cloud Native Runtime*.
-    - Monitor an application with *Application View*.
+    - Observe an application with *Application View*.
 team:
   - VMware Tanzu
 duration: 360
@@ -42,6 +43,11 @@ After completing the learning path, you will be able to
 
 -   Bootstrap a greenfield web project using an *Accelerator*.
 -   Build a web application using the *Tanzu Build Service*.
+-   Explain what the *Supply Chain Coreographer* does,
+    as well as its value point in supporting *Continuous Integration*
+    and *Continuous Delivery*.
 -   Deploy and run a web application using *Cloud Native Runtime*.
+-   Demonstrate service binding from *Tanzu Application Platform* to a
+    Database *Backing Service*.
 -   Observe a web application running on *Tanzu Application Platform*
     using *Application View*.

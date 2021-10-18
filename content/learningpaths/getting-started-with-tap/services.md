@@ -1,7 +1,7 @@
 ---
-title: Cloud Native Runtime
+title: Services
 # draft: true
-weight: 20
+weight: 25
 layout: single
 team:
   - VMware Tanzu

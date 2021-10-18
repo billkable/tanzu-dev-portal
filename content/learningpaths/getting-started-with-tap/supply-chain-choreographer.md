@@ -1,7 +1,7 @@
 ---
-title: Cloud Native Runtime
+title: Supply Chain Choreographer
 # draft: true
-weight: 20
+weight: 15
 layout: single
 team:
   - VMware Tanzu

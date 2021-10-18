@@ -1,7 +1,7 @@
 ---
 title: Application View
 # draft: true
-weight: 20
+weight: 30
 layout: single
 team:
   - VMware Tanzu
