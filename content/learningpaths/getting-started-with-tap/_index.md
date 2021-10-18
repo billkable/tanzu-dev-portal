@@ -41,6 +41,8 @@ on *Tanzu Application Platform*.
 
 After completing the learning path, you will be able to
 
+-   Explain the basic *Tanzu Application Platform* architecture,
+    including its high level components and their relationships.
 -   Bootstrap a greenfield web project using an *Accelerator*.
 -   Build a web application using the *Tanzu Build Service*.
 -   Explain what the *Supply Chain Coreographer* does,
