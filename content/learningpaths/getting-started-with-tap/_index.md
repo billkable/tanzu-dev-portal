@@ -22,7 +22,7 @@ tags:
 ## Why is this learning path important?
 
 This learning path will get you versed in using
-*Tanzu Application Platform* features for building a green field
+*Tanzu Application Platform* features for building a greenfield
 application.
 
 **This learning path assumes you have reviewed**
@@ -45,7 +45,7 @@ After completing the learning path, you will be able to
     including its high level components and their relationships.
 -   Bootstrap a greenfield web project using an *Accelerator*.
 -   Build a web application using the *Tanzu Build Service*.
--   Explain what the *Supply Chain Coreographer* does,
+-   Explain what the *Supply Chain Choreographer* does,
     as well as its value point in supporting *Continuous Integration*
     and *Continuous Delivery*.
 -   Deploy and run a web application using *Cloud Native Runtime*.
